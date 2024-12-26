@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "GOODS",
+  "usingComponents": {
+    "table-box": "../../components/common/Table"
+  }
+}

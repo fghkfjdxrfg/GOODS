@@ -1,0 +1,36 @@
+
+.table-box.data-v-b249cdd6 {  
+  margin: 10px;
+}
+.table-name.data-v-b249cdd6 {  
+  font-size: 18px; /* 标题字体大小 */  
+  font-weight: bold; /* 加粗 */  
+  margin-bottom: 10px; /* 标题与表格间距 */  
+  color: #ffaa00; /* 标题颜色 */  
+  text-align: center; /* 标题居中 */
+}
+.scroll-view.data-v-b249cdd6 {  
+  max-height: 300px;  /* 设置最大高度，可以根据需要调整 */  
+  overflow: auto;   /* 允许滚动 */
+}
+.table.data-v-b249cdd6 {  
+  border-collapse: collapse;  
+  width: 100%;
+}
+.table-row.data-v-b249cdd6 {  
+  display: flex;
+}
+.table-cell.data-v-b249cdd6 {  
+  flex: 1;  
+  border: 1px solid #363636;  
+  padding: 10px;  
+  text-align: left;  
+  min-width: 20%;
+}
+.Buttons.data-v-b249cdd6 {
+	display: flex;
+}
+button.data-v-b249cdd6 {
+	font-size: 15px;
+	background-color: beige;
+}

@@ -1,0 +1,1 @@
+<swiper class="swiper-container data-v-0b08369a" indicator-dots="true" autoplay="true"><swiper-item wx:for="{{a}}" wx:for-item="item" wx:key="b" class="data-v-0b08369a"><image src="{{item.a}}" class="swiper-image data-v-0b08369a" mode="aspectFill"></image></swiper-item></swiper>

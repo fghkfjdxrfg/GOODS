@@ -1,0 +1,1 @@
+<view><banner-vue u-i="bbfa316c-0" bind:__l="__l"></banner-vue><view><message-vue wx:for="{{a}}" wx:for-item="message" wx:key="a" u-i="{{message.b}}" bind:__l="__l" u-p="{{message.c}}"></message-vue></view></view>

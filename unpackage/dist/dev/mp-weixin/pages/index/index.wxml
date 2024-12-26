@@ -1,0 +1,1 @@
+<view>DATE：2024-12-26</view><view><table-box wx:for="{{a}}" wx:for-item="name" wx:key="a" u-i="{{name.b}}" bind:__l="__l" u-p="{{name.c}}"></table-box></view>

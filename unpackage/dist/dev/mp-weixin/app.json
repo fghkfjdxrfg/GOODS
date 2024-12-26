@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/My/My",
+    "pages/Hot/Hot"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/Hot/Hot",
+        "text": "推荐"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "GOODS"
+      },
+      {
+        "pagePath": "pages/My/My",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

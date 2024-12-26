@@ -1,0 +1,48 @@
+
+.container.data-v-8f9a99c0 {  
+  padding: 20px;
+}
+.profile-section.data-v-8f9a99c0 {  
+  display: flex;  
+  align-items: center;  
+  margin-bottom: 30px;
+}
+.avatar.data-v-8f9a99c0 {  
+  width: 60px;  
+  height: 60px;  
+  border-radius: 30px; /* 使头像为圆形 */  
+  margin-right: 15px;
+}
+.nickname.data-v-8f9a99c0 {  
+  font-size: 18px;  
+  font-weight: bold;
+}
+.settings-section.data-v-8f9a99c0 {  
+  border-top: 1px solid #ccc; /* 分割线 */
+}
+.setting-item.data-v-8f9a99c0 {  
+  padding: 15px 0;  
+  border-bottom: 1px solid #eee; /* 设置项之间的分割线 */  
+  cursor: pointer; /* 鼠标指针 */
+}
+.setting-title.data-v-8f9a99c0 {  
+  font-size: 16px;
+}
+.setting-item.data-v-8f9a99c0 {  
+  cursor: pointer;
+}
+.dropdown.data-v-8f9a99c0 {  
+  margin-top: 10px;  
+  padding: 10px;  
+  border: 1px solid #ccc;  
+  background-color: #fff;
+}
+.dropdown-item.data-v-8f9a99c0 {  
+  display: flex;  
+  justify-content: space-between;  
+  align-items: center;  
+  margin-bottom: 10px; /* 可以调整行间距 */
+}
+.checkBox.data-v-8f9a99c0 {  
+  margin-left: auto; /* 把checkbox推到右边 */
+} 
